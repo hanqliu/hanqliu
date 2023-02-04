@@ -36,15 +36,14 @@ Tools Used: Python, MATLAB
 * Develop new spectrum and power spectrum analysis algorithms and analyzed predictability of meteorological factors
 * Using improved neural network to predict solar irradiance for photovoltaic power stations
 * Improved prediction accuracy by 20.12% compared with existing Neural Network Algorithms<br/>
--->Codes: <br/>
--->Reports(thesis): <br/>
+-->Codes&Reports(thesis) in GitHub: <a href="https://github.com/hanqliu/Solar-Irradiance-Prediction">Prediction of solar irradiance using meteorological factors</a><br/>
 
 #### Practice of Object Detection and Recognition-Take Face Recognition as an Example
 Feb 2021<br/>
 Tools Used: Python
 * Carried out deep learning to conduct face recognition including image processing, object detection, object identification, etc., took charge of programming and parameter adjustment, and practiced programming with the cutting-edge methods in recent years, and was honored as the excellent participant (top 10%);
 * In the experiment report, introduced the excellent work done in the field of face recognition using deep learning methods, several classic methods for face recognition like Mask R-CNN, YOLO, RetinaNet, etc., and improved algorithms and programming, including building and adjusting a deep neural network<br/>
--->Codes:<br/>
+-->Codes in GitHub: <a href="https://github.com/hanqliu/Face-recognition-practice">Practice of Object Detection and Recognition-Take Face Recognition as an Example</a><br/>
 
 
 #### Sentiment Analysis and Consumer Opinion Exploration of Amazon Shopping Comments
@@ -52,7 +51,7 @@ Feb 2021-Jun 2021<br/>
 Tools Used: Python, C++, R
 * Applied Naïve Bayes method to train sentiment classifier and create emotional dictionaries for various products (hair dryers, microwaves, pacifiers)
 * Built a robust assessment model with 97% accuracy for measuring consumer satisfaction and consistency between comments and star ratings<br/>
--->Publishment: 
+-->Publishment(by IEEE):<a href="https://ieeexplore.ieee.org/document/9447490">A Satisfactory Detection Framework on Online-shopping Comments</a>
 
 #### Sentiment Analysis and Public Opinion Exploration Project based on Micro-blog Data during COVID-19 Period
 02/2021-06/2021<br/>
@@ -61,7 +60,7 @@ Tools Used: R
 * Conducted cluster analysis and kernel density estimation on the data of emotional tendency, and studied the fluctuation of social emotion over time;
 * With the help of sentiment analysis classifier, explored micro-blog topics, and found out the strong correlation between feeling bipolarity of topics and users’ attention;
 * With the help of LDA theme model, acquired the potential topics in six micro-blogs, used the root words provided in topics and referred to the previous researches, developed the sentiment dictionary of the field closely related to the COVID-19 data to provide support for others’ research in the field.<br/>
--->Reports:<br/>
+-->Codes&Reports in GitHub: <a href="https://github.com/hanqliu/sentimental_anlysis_on_covid-19">Sentiment Analysis and Public Opinion Exploration Project based on Micro-blog Data during COVID-19 Period</a><br/>
 
 ---
 ### CONSULTING & ANAlYTIC EXPERIENCE
