@@ -39,6 +39,14 @@ Tools Used: Python, MATLAB
 -->Codes: <br/>
 -->Reports(thesis): <br/>
 
+#### Practice of Object Detection and Recognition-Take Face Recognition as an Example
+Feb 2021<br/>
+Tools Used: Python
+* Carried out deep learning to conduct face recognition including image processing, object detection, object identification, etc., took charge of programming and parameter adjustment, and practiced programming with the cutting-edge methods in recent years, and was honored as the excellent participant (top 10%);
+* In the experiment report, introduced the excellent work done in the field of face recognition using deep learning methods, several classic methods for face recognition like Mask R-CNN, YOLO, RetinaNet, etc., and improved algorithms and programming, including building and adjusting a deep neural network<br/>
+-->Codes:<br/>
+
+
 #### Sentiment Analysis and Consumer Opinion Exploration of Amazon Shopping Comments
 Feb 2021-Jun 2021<br/>
 Tools Used: Python, C++, R
