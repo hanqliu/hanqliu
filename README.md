@@ -1,56 +1,76 @@
 ## Hanqing Liu
-### Contact:  • hliu156@jh.edu <a href="linkedin.com/in/hanqing-liu-barry/">linked_in page</a>
-#### Currently looking for <b>Full-time Data Analytics/Business Analytics/IT Consultant</b> position in US.
-#### Living in DC, willing to relocate.
+#### Contact:  hliu156@jh.edu 
+#### <a href="linkedin.com/in/hanqing-liu-barry/">Personal Linked_in Page</a>
+Currently looking for <b>Full-time Data Analytics/Business Analytics/IT Consultant</b> position in US.
+
+Living in DC, willing to relocate.
+
+Earliest start to work in May 2023.
+
 ---
-EDUCATION
-Johns Hopkins University	Washington, DC
-Master of Science, Information System	Aug 2022-Aug 2023
+### EDUCATION
+#### • Johns Hopkins University<br/>
+*Master of Science, Information System*<br/>Aug 2023<br/>
+Highlighted Courses: Business Analytics(Advanced), Large Scale Computing on Hadoop, Web Design, Database, Project Management<br/>
 	
-Nankai University	Tianjin, China
-Bachelor of Science, Statistics	Sep 2018-Jun 2022
-Highlighted Courses: Statistical Learning and Data Mining, Mathematical Modeling, Market and Economic Law
+#### • Nankai University(Tianjin, China)
+*Bachelor of Science, Statistics*<br/>Jun 2022<br/>
+Highlighted Courses: Statistical Software, Data Mining, Mathematical Modeling, Mathematical Statistics, Machine Learning
 
-PROJECT EXPERIENCE
-Prediction of Solar Irradiance Using Deep Neural Network	
-Member, held by Nankai University& State Power Rixin Tech. Co., Ltd.	Jun 2021-Jul 2022
-•	Applied Fast Fourier Transform to conduct spectrum and power spectrum analyses on meteorological data, assisted with solar irradiance prediction using deep learning.
-•	Improved accuracy of prediction by 20.12%, comparing with classic algorithm.
-•	Responsible for data processing, visualization, analyzing and programming algorithm.
+---
+### TECHNICAL PROFICIENCIES
+#### • Coding Skills:<br/>
+(proficient in) Python (including using AWS), R, MySQL & Oracle DB, MATLAB, C++, HTML, CSS<br/>
+(have experience in) PowerBI, ArcGIS<br/>
+(skilled in) JavaScript, PHP<br/>
 
-Sentiment Analysis and Public Opinion Exploration based on Micro-blog Data during COVID-19 Period	
-Member, held by Nankai University	Feb 2021-Jun 2021
-•	Applied Naïve Bayes method to train sentiment classifier based on topics of COVID-19, and studied fluctuation of social emotions over time. Provided emotion dictionary for team.
-•	Acquired potential topics and public concerns about COVID-19 using LDA theme model, analyzed public opinions for over 10 public health concerns.
-•	Responsible for algorithm design, programming and paper writing.
+#### • Analytic Skills: 
+Machine Learning (including Deep Learning), Retail Analytics, ROI analysis, A/B testing, Optimization(GAMS), Simulation
 
-Research on Spatial Distribution Characteristics and Factors of China Independent Music Performance                                                                                                                                   Member, held by Tianjin University                                                                                                        Jan 2021-May 2021
-•	Cooperated with members majoring in urban planning to analyze future development prospects of more than 50 independent music performance venues in Beijing.
-•	Applied statistical tools, including random forest, spatial self-correlation analysis to assist with jobs including algorithms, programming and data analysis.
+---
 
-LEADERSHIP & INVOLVEMENT
-Nankai Youth News, official newspaper of Nankai University	
-Chief Editor, held by Nankai University	Sep 2019-Jun 2021
-•	Completed a total of 7 copies of university newspaper as an editor, e.g., the centennial anniversary special issue of Nankai University, and led our press team of 51 members.
-•	Led 12 authors and editors to work on an independent literary newspaper for over 80,000 Chinese Characters.
-•	Served as a member of campus media committee of China Youth Daily and chief editor of new media platform “Nanting Notes” from Sept.2018-June.2021. 
+### CODING EXPERIENCE
+#### Prediction of solar irradiance using meteorological factors, State Power Rixin Tech. Co., Ltd&Nankai University<br/>
+Jun 2021-Jul 2022<br/>
+Tools Used: Python, MATLAB
+* Develop new spectrum and power spectrum analysis algorithms and analyzed predictability of meteorological factors
+* Using improved neural network to predict solar irradiance for photovoltaic power stations
+* Improved prediction accuracy by 20.12% compared with existing Neural Network Algorithms<br/>
+-->Codes: <br/>
+-->Reports(thesis): <br/>
 
-TECHNICAL PROFICIENCIES&HOBBIES
-Professional Skills: MS Office, and C++, R, Python, MATLAB, MySQL, Tableau, SPSS.
-Languages: Mandarin.
-Hobbies: Soccer, Volleyball, Writing.
+#### Sentiment Analysis and Consumer Opinion Exploration of Amazon Shopping Comments
+Feb 2021-Jun 2021<br/>
+Tools Used: Python, C++, R
+* Applied Naïve Bayes method to train sentiment classifier and create emotional dictionaries for various products (hair dryers, microwaves, pacifiers)
+* Built a robust assessment model with 97% accuracy for measuring consumer satisfaction and consistency between comments and star ratings<br/>
+-->Publishment: 
 
-<!--
-**hanqliu/hanqliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### CONSULTING & ANAlYTIC EXPERIENCE
+#### Student Consultant, Johns Hopkins University Community Consulting Lab
+Nov 2022, Feb 2023-Apr 2023
+* Performed a needs assessment, analyzed human resource consulting markets, and located potential clients, including 40 tech start-ups in DMV area
+* Designed business development strategies with seven leading suggestions and specific outreach plans for expanding client base
 
-Here are some ideas to get you started:
+#### Implementation of Amazon Kendra for the Boston Globe (Simulation)
+Oct 2022<br/>
+Tools Used: Requirements Analysis, ROI Analysis, Project Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Analyzed need to optimize file searching and identified proper cloud service solutions
+* Estimated required resources and budgets. Conducted ROI analysis of using Amazon Kendra for upcoming five years with an IRR of 43%. Developed implementation plan and estimate required resources
+
+
+
+#### Research on Spatial Distribution Characteristics and Factors of China Independent Music Performance
+Feb 2021-May 2021<br/>
+Tools Used: R, ArcGIS
+
+* Cooperated with team majoring in urban planning to analyze the future development prospects of different performance venues in Beijing
+* Applied statistical tools, including random forest, spatial autocorrelation analysis, and GIS software to assist with jobs including algorithms, programming, and data analysis, applied statistical knowledge to improve the existing spatial geographic analysis methods, etc
+
+---
+### LEADERSHIP & COMMUNICATION
+Chief Editor, Nankai Youth News, the official newspaper of Nankai University<br/>
+Sep 2019-Jun 2021
+* Edited seven issues of university newspaper, including special centennial anniversary issue, and led team of 51 members
