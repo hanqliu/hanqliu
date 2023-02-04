@@ -27,6 +27,8 @@ Highlighted Courses: Statistical Software, Data Mining, Mathematical Modeling, M
 #### • Analytic Skills: 
 Machine Learning (including Deep Learning), Retail Analytics, ROI analysis, A/B testing, Optimization(GAMS), Simulation
 
+-->WEB design example(original created):hanqingl.sgedu.site
+
 ---
 
 ### CODING EXPERIENCE
