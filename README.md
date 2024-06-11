@@ -7,7 +7,7 @@
 #### Information Management Analyst @International Monetary Fund
 Aug 2023 till now
 
-* Lead the production of key IMF flagship data products, including the World Economic Outlook (WEO) and Global Economic Environment (GEE), both for internal use and public dissemination. Share research findings with other international economic research institutions.
+* Produce multiple key IMF flagship data products, including the World Economic Outlook (WEO) and Global Economic Environment (GEE), both for internal use and public dissemination. Share research findings with other international economic research institutions.
 
 * Validate and ensure the accuracy of the macroeconomic framework and projections for IMF member countries, contributing to the World Economic Outlook, IMF Staff Reports, and other internal analyses focused on country and area-level macroeconomic data.
 
