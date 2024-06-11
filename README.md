@@ -1,11 +1,17 @@
-## Hanqing Liu
-#### Contact:  hliu156@jh.edu 
+## Barry (Hanqing) Liu
+#### Contact:  barryliu2000@outlook.com 
 #### <a href="linkedin.com/in/hanqing-liu-barry/">Personal Linked_in Page</a>
-Currently looking for <b>Full-time Data Analytics/Business Analytics/IT Consultant</b> position in US.
 
-Living in DC, willing to relocate.
+---
+### EXPERIENCE
+#### Information Management Analyst @International Monetary Fund
+Aug 2023 till now
 
-Earliest start to work in May 2023.
+* Lead the production of key IMF flagship data products, including the World Economic Outlook (WEO) and Global Economic Environment (GEE), both for internal use and public dissemination. Share research findings with other international economic research institutions.
+
+* Validate and ensure the accuracy of the macroeconomic framework and projections for IMF member countries, contributing to the World Economic Outlook, IMF Staff Reports, and other internal analyses focused on country and area-level macroeconomic data.
+
+* Actively participate in the IMF's digitalization and modernization initiatives, particularly the IMF Data Portal (iDATA). Develop and implement interactive validation tools using PowerBI, Power Apps, and Power Automate to replace legacy desktop applications. Ensure cross-departmental information security, facilitate innovative uses of data, and collaborate with internal teams and external contractors. Overcome challenges related to complex legacy system design and database structures, while maintaining alignment with IMF's image and mission under tight deadlines.
 
 ---
 ### EDUCATION
